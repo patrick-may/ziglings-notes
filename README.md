@@ -1,3 +1,10 @@
+Original cloned readme is below. This repo includes my fixes to ziglings and some notes in the `notes/` folder. Happy to answer or discuss anything -- If my notes are wrong, lets discuss it! I would love to learn more.
+
+Thanks :)
+-Patrick
+
+--- 
+
 # Ziglings
 
 Welcome to Ziglings! This project contains a series of tiny
